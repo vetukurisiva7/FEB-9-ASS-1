@@ -1,0 +1,10 @@
+a=int(input('enter a number'))
+b=int(input('entter bnumber'))
+if(a<b):
+    print('a is less than b')
+else:
+    print('b is less than a')
+    
+    output
+    enter a number 5
+entter bnumber
